@@ -22,5 +22,3 @@
      ```bash
     npm run dev    
 4. Do the authentication process and you are all set.
-
-# Thank you for your time and giving me this opportunity 🙏
